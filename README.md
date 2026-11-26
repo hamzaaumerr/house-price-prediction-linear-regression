@@ -165,7 +165,7 @@ The program calculates the required engineered features and uses the trained mod
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hamzaaumerr/house-price-prediction-linear-regression
+git clone https://github.com/hamzaaumerr/house-price-prediction-linear-regression.git
 cd house-price-prediction-linear-regression
 ```
 
